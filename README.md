@@ -6,8 +6,9 @@
 此仓库会涵盖相对基础的`Javascript`、`CSS`、`HTML`、`HTTP`、`Vue`和一些`前端相关技术`。
 
 ## Javascript
-+ [作用域](./src/JS/00作用域.md)
-+ [函数作用域和块作用域](./src/JS/01函数作用域和块作用域.md)
++ [作用域](./src/JS/00作用域.md?_blank)
++ [函数作用域和块作用域](./src/JS/01函数作用域和块作用域.md?_blank)
++ [提升](./src/JS/02提升.md?_blank)
 ## CSS
 
 ## HTML

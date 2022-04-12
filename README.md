@@ -9,7 +9,8 @@
 + [作用域](./src/JS/00作用域.md?_blank)
 + [函数作用域和块作用域](./src/JS/01函数作用域和块作用域.md?_blank)
 + [提升](./src/JS/02提升.md?_blank)
-+ [闭包](./src/JS/003闭包.md?_bank)
++ [闭包](./src/JS/03闭包.md?_bank)
++ [this](./src/JS/04this.md?_bank)
 ## CSS
 
 ## HTML

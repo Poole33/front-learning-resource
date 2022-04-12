@@ -100,6 +100,7 @@ var obj = {
 }
 
 var fn2 = obj.fn1;
+
 fn2(); // 1
 
 /**
@@ -114,6 +115,7 @@ fn2(); // 1
 ```javascript
 // 隐式丢失 2
 var num1 = 1;
+
 var obj = {
   num1: 2,
   fn1: function() {
@@ -185,6 +187,7 @@ fn1.apply(null, [1, 2]); // 3
 
 ``` javascript
 var num1 = 1;
+
 var obj = {
   num1: 2
 }
@@ -192,7 +195,9 @@ var obj = {
 function fn1() {
   console.log(this.num1)
 }
+
 var fn2 = fn1.bind(obj); // 没有产生隐式丢失
+
 foo(); // 2
 ```
 
@@ -240,11 +245,13 @@ fn2.call(window); // 2
 ```javascript
 // 函数返回不是对象
 var num1 = 1;
+
 function Smile() {
   this.num1 = 2;
 }
 
 var obj = new Smile();
+
 console.log(obj.num1); // 2
 console.log(num1); // 1
 ```
@@ -252,6 +259,7 @@ console.log(num1); // 1
 ```javascript
 // 函数返回的是对象
 var num1 = 1;
+
 function Smile() {
   this.num1 = 2;
   this.num2 = 0;
@@ -261,6 +269,7 @@ function Smile() {
 }
 
 var obj = new Smile();
+
 console.log(obj.num1); // 3
 console.log(obj.num2); // undefined
 console.log(num1); // 1
@@ -273,6 +282,7 @@ console.log(num1); // 1
 调用函数时，外部的`this`改变，箭头函数的`this`跟着改变。
 ```javascript
 var num1 = 1;
+
 var obj = {
   num1: 2
 }

@@ -18,7 +18,7 @@
 + [数据类型](./src/JS/05数据类型.md)
 + [对象](./src/JS/06对象.md?_blank)
 + [对象的复制](./src/JS/07对象的复制.md?_blank)
-+ [原型链](./src/JS/08原型.md?_blank)
++ [原型链](./src/JS/08原型链.md?_blank)
 + ["继承"](./src/JS/09“继承”.md?_blank)
 ## CSS
 

@@ -15,11 +15,14 @@
 + [提升](./src/JS/02提升.md?_blank)
 + [闭包](./src/JS/03闭包.md?_blank)
 + [this](./src/JS/04this.md?_blank)
-+ [数据类型](./src/JS/05数据类型.md)
++ [数据类型](./src/JS/05数据类型.md?_blank)
++ [值](./src/JS/06值.md?_blank)
 + [对象](./src/JS/06对象.md?_blank)
 + [对象的复制](./src/JS/07对象的复制.md?_blank)
 + [原型链](./src/JS/08原型链.md?_blank)
 + ["继承"](./src/JS/09“继承”.md?_blank)
++ 
++ [数据类型的判断](./src/JS/12数据类型的判断.md?_blank)
 ## CSS
 
 ## HTML

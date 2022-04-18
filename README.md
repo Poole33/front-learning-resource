@@ -22,6 +22,7 @@
 + [数据类型转换](./src/JS/11数据类型转换.md?_blank)
 + [数据类型的判断](./src/JS/12数据类型的判断.md?_blank)
 + [JS运行机制-事件循环](./src/JS/13事件循环.md?_blank)
++ [Promise](./src/JS/14Promise.md?_blank)
 ## CSS
 
 ## HTML

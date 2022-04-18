@@ -144,7 +144,7 @@ new Promise((resolve, reject) => { // 提供一个函数回调，这个函数有
     ```
 
 #### Promise.resolve( )和Promise.reject( )
-+ `Promise.reject( )`
++ `Promise.reject( )`  
   快速创建`已被拒绝`的Promise
   ```javascript
   Promise.reject('error')
@@ -157,7 +157,7 @@ new Promise((resolve, reject) => { // 提供一个函数回调，这个函数有
     console.log(error); // `error`
   });
   ```
-+ `Promise.resolve( )`
++ `Promise.resolve( )`  
   快速创建一个`已完成/拒绝`的Promise
   <!-- + 如果传入值是thenable，会展开thenable值 -->
   + 传入的是个数据，创建一个已完成的Promise，并返回传入的数据

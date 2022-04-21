@@ -45,6 +45,7 @@
 + [什么是HTTP？](./src/HTTP/00什么是HTTP？.md?_blank)
 + [HTTP的发展历史](./src/HTTP/01HTTP的发展历史.md?_blank)
 + [跨域](./src/HTTP/02跨域问题.md?_blank)
++ [HTTP常见的头](./src/HTTP/03HTTP常见的头.md?_blank)
 
 ## Vue
 

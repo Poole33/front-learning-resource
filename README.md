@@ -22,6 +22,8 @@
   
 **如需转载**请注明出处，感恩。
 ## Javascript
+> 本系列参考了书籍《你不知道的JavaScript》
+
 + [作用域](./src/JS/00作用域.md?_blank)
 + [函数作用域和块作用域](./src/JS/01函数作用域和块作用域.md?_blank)
 + [提升](./src/JS/02提升.md?_blank)

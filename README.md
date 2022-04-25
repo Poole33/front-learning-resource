@@ -49,7 +49,8 @@
 + [跨域](./src/HTTP/02跨域问题.md?_blank)
 + [HTTP常见的头](./src/HTTP/03HTTP常见的头.md?_blank)
 + [HTTP缓存](./src/HTTP/04HTTP缓存.md?_blank)
-+ [HTTPS](./src/HTTP/05HTTPS.md)
++ [HTTPS](./src/HTTP/05HTTPS.md?_blank)
++ [TCP和UDP](./src/HTTP/06TCP和UDP.md?_blank)
 
 ## Vue
 

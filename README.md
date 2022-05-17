@@ -46,6 +46,7 @@
 + [浮动float](./src/CSS/03浮动float.md)
 + [定位position](./src/CSS/04定位position.md)
 + [CSS3新特性](./src/CSS/05CSS3新特性.md)
++ [弹性布局flex](./src/CSS/06弹性布局flex.md)
 
 ## HTML
 

@@ -47,6 +47,7 @@
 + [定位position](./src/CSS/04定位position.md)
 + [CSS3新特性](./src/CSS/05CSS3新特性.md)
 + [弹性布局flex](./src/CSS/06弹性布局flex.md)
++ [经典左中右布局](./src/CSS/07经典左中右布局.md)
 
 ## HTML
 
